@@ -1,0 +1,15 @@
+*.swp
+*.pem
+*.pyc
+*.DS_Store
+.cache
+/node_modules
+/.pnp
+.pnp.js
+/build
+__pycache__
+.env
+.vscode
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
